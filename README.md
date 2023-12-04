@@ -1,2 +1,0 @@
-# AShop-ECommerce
-ECommerce App
